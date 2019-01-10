@@ -1,2 +1,5 @@
 .byebug_history
 .DS_STORE
+.\git_setup.sh
+.\pull_all_branches_and_zip.sh
+.\update.sh
